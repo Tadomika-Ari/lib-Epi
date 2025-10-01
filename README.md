@@ -3,9 +3,7 @@
 Simple répo pour la lib important pour la piscine d'Epitech et les projets
 
 ## Features
-- Récupere le texte totale d'une page grace seulement à un lien
-- Peut désormais traduire tout type de language (dans la limite de deepl bien sur)
-- Créer une version traduite et non traduite 
+- Installe l'ensemble de la lib dans le dossier actuel 
 
 
 
@@ -13,8 +11,9 @@ Simple répo pour la lib important pour la piscine d'Epitech et les projets
 1. Installer seulement le .sh
 2. Lancer le avec un terminal avec  
 ``` bash
-./lib_add
+./lib_add.sh
 ```
+3. Enjoy ! un dossier lib est apparue ! 
 
 
 
