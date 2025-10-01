@@ -18,18 +18,17 @@ curl https://raw.githubusercontent.com/Tadomika-Ari/lib-Epi/refs/heads/main/lib_
 ``` bash
 ./lib_add.sh
 ```
-3. Enjoy ! un dossier lib est apparue ! 
+3. Enjoy ! un dossier lib est apparu ! 
 
 4. Pour compiler avec la biblioteque il suffit de faire :
 
-
 ``` bash
-clang vos-fichier.c -L lib/my -lmy
+clang vos-fichiers.c -L lib/my -lmy
 ```
 
 avec gcc :
 ``` bash
-gcc vos-fichier.c -L lib/my -lmy
+gcc vos-fichiers.c -L lib/my -lmy
 ```
 ## Contribution
 J'accepte tout type d'aide pour l'améliorer. 
