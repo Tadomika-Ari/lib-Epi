@@ -12,6 +12,12 @@ Simple répo pour la lib important pour la piscine d'Epitech et les projets
 ``` bash
 curl https://raw.githubusercontent.com/Tadomika-Ari/lib-Epi/refs/heads/main/lib_add.sh | bash -s
 ```
+### Ou bien : 
+1. Installer seulement le .sh
+2. Lancer le avec un terminal avec  
+``` bash
+./lib_add.sh
+```
 3. Enjoy ! un dossier lib est apparue ! 
 
 4. Pour compiler avec la biblioteque il suffit de faire :
