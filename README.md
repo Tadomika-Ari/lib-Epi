@@ -15,7 +15,16 @@ Simple répo pour la lib important pour la piscine d'Epitech et les projets
 ```
 3. Enjoy ! un dossier lib est apparue ! 
 
+4. Pour compiler avec la biblioteque il suffit de faire :
 
 
+``` bash
+clang vos-fichier.c -L lib/my -lmy
+```
+
+avec gcc :
+``` bash
+gcc vos-fichier.c -L lib/my -lmy
+```
 ## Contribution
 J'accepte tout type d'aide pour l'améliorer. 
