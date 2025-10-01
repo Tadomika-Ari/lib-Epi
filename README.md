@@ -8,7 +8,7 @@ Simple répo pour la lib important pour la piscine d'Epitech et les projets
 
 
 ## Comment l'utiliser
-1. Execute la commande pour telecharger et executer l'installateur :  
+1. Executer la commande pour telecharger et executer l'installateur :  
 ``` bash
 curl https://raw.githubusercontent.com/Tadomika-Ari/lib-Epi/refs/heads/main/lib_add.sh | bash -s
 ```
