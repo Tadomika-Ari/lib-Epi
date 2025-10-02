@@ -1,4 +1,4 @@
-# Lib-Epi
+# Lib-Epitech
 
 Simple répo pour la lib important pour la piscine d'Epitech et les projets
 
