@@ -5,7 +5,7 @@
 ** a creer
 */
 
-int my_strlen(char const *str);
+#include "../../include/my.h"
 
 char *my_strncat(char *dest, char const *src, int n)
 {

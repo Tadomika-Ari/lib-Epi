@@ -5,7 +5,7 @@
 ** task01
 */
 
-void my_putchar(char c);
+#include "../../include/my.h"
 
 char *my_strcpy(char *dest, char const *src)
 {

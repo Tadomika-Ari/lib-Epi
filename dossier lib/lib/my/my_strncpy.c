@@ -5,8 +5,6 @@
 ** task02, same that task01 but with n
 */
 
-void my_putchar(char c);
-
 char *my_strncpy(char *dest, char const *src, int n)
 {
     int i;

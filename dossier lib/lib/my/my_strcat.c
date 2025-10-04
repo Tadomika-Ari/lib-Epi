@@ -5,7 +5,7 @@
 ** a creer + task02 Day07
 */
 
-int my_strlen(char const *str);
+#include "../../include/my.h"
 
 char *my_strcat(char *dest, char const *src)
 {

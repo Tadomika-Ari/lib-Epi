@@ -6,7 +6,7 @@
 */
 
 #include <malloc.h>
-#include "my.h"
+#include "../../include/my.h"
 
 char *my_strdup(char const *src)
 {
