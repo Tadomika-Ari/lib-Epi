@@ -7,5 +7,14 @@
 
 int my_str_isnum(char const *str)
 {
-    return 0;
+    int i = 0;
+
+    while (str[i] != '\0') {
+        if (str[i] > 47 && str[i] < 58) {
+            i++;
+        } else {
+            return 0;
+        }
+    }
+    return 1;
 }
